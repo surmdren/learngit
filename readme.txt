@@ -12,3 +12,4 @@ Git is free software
 Creating a new branch is quick.
 Creating a new branch is quick2.
 Creating a new branch is quick3.
+Creating a new branch is quick4.
