@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Git branch with no-ff
 Git branch 
+Git is a free software
